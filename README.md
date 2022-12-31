@@ -1,6 +1,6 @@
 <img src="https://vvvvvvaria.org/logs/x-y-protocols/image/WOQRuRLhQJifJHeCiEEHYQ.jpg" />
 
-> :point_right: https://sfconservancy.org/GiveUpGitHub/ :point_left:
+> :point_right: [sfconservancy.org/GiveUpGitHub](https://sfconservancy.org/GiveUpGitHub) :point_left:
 
 [`git.autonomic.zone/decentral1se`](https://git.autonomic.zone/decentral1se)
 
